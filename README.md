@@ -7,5 +7,7 @@
 - Personal website: https://ryanhardestylewis.com
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ryanhlewis&show_icons=true&icon_color=&text_color=&bg_color=&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanhlewis&hide_title=false&langs_count=2&hide=html,Smalltalk,Makefile,CMake)
+![](https://raw.githubusercontent.com/ryanhlewis/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ryanhlewis/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ryanhlewis/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ryanhlewis/github-stats/master/generated/languages.svg#gh-light-mode-only)
